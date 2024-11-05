@@ -103,7 +103,7 @@ select option
     padding-top: 4rem;
     height:100%;
     width:60%;
-    background-color: #F5F5F5;
+    background-color: rgb(245, 245, 245);
 }
 h1
 {
@@ -136,6 +136,11 @@ h3
     margin-top: 2rem;
     font-stretch: 500%;
 }
+#half
+{
+    padding-left: 2rem;
+}
+
 #half ul
 {
     margin-bottom: 2rem;
@@ -143,16 +148,16 @@ h3
     width:90%;
     justify-content: center;
     align-items: center;
-   margin-left: -7rem;
+   margin-left: -5rem;
     list-style: none;
 text-decoration: none;
 }
 #half ul li a
 {
     background-color: rgb(0, 0, 0);
-    padding: 2rem;
+    padding: 1rem;
     color: rgb(255, 255, 255);
-    font-size: 2rem;
+    font-size: 1.5rem;
     border-radius: 3rem;
     font-weight: 500;
     font-family: "light";
@@ -164,6 +169,8 @@ text-decoration: none;
     height:100%;
     width: 40%;
     ;
+    background-color: rgb(245, 245, 245);
+    padding-right: 4rem;
     
 }
 #right img
